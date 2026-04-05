@@ -1,0 +1,9 @@
+.git
+.gitignore
+target
+data
+.m2repo
+.m2repo-verify
+.maven-home
+app.log
+app-error.log
